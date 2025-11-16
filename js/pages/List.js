@@ -100,28 +100,28 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        YOU MUST ENABLE CHEAT INDICATOR ON ANY MOD MENU YOU HAVE!
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Clicks must be heard.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        At the end, please press tab. If it reveals a mod menu *you must scroll through everything.* (ASTERISKS ARE FOR QOLMOD AND PRISM MENU OR NON MEGA HACK LAYOUTS)
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Click between frames IS ALLOWED (cuz cbf is cool right ori?)
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Edited recording must NOT include slurs. Only raw footage.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Live streams are optimal because it helps us!
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        FAKE/JOKE RECORDS ARE NOT ALLOWED (Reasoning: Well its a joke record and its dumb)
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        If anything is wrong or you need help DM @the_ori_ OR email theminerbuilderquestion@gmail.com (if ur emailing please put "TFEDL Help" as the title, it makes things easier!)
                     </p>
                 </div>
             </div>
